@@ -44,5 +44,5 @@ This project is a front-end web application developed to replicate a Figma desig
 Open your browser and navigate to http://localhost:5174 to view the application.
 
 ## Live Demo: 
-   ### https://lunacal-demo.netlify.app/
+   ### 
 
