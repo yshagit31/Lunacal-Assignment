@@ -36,7 +36,7 @@ The application consists of multiple components such as tabs, image galleries, a
 ## Installation and Setup
 
 1. Clone the repository:<br/>
-   git clone https://github.com/Ankita7238/lunacal-figma-replication.git
+   git clone 
 
 2. Navigate to the project directory:<br/>
    cd lunacal-figma-replication
@@ -47,7 +47,7 @@ The application consists of multiple components such as tabs, image galleries, a
 4. Start the development server:<br/>
    npm start
 
-Open your browser and navigate to http://localhost:3000 to view the application.
+Open your browser and navigate to  to view the application.
 
 ## Live Demo: 
    ### https://lunacal-demo.netlify.app/
