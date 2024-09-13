@@ -30,7 +30,7 @@ This project is a front-end web application developed to replicate a Figma desig
 ## Installation and Setup
 
 1. Clone the repository:<br/>
-   git clone https://github.com/Ankita7238/lunacal-figma-replication.git
+   git clone 
 
 2. Navigate to the project directory:<br/>
    cd lunacal-figma-replication
@@ -39,7 +39,9 @@ This project is a front-end web application developed to replicate a Figma desig
    npm install
 
 4. Start the development server:<br/>
-   npm run dev
+   npm start
+
+Open your browser and navigate to http://localhost:3000 to view the application.
 
 ## Live Demo: 
    ### https://lunacal-demo.netlify.app/
