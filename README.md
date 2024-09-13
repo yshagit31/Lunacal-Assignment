@@ -33,7 +33,7 @@ This project is a front-end web application developed to replicate a Figma desig
    git clone 
 
 2. Navigate to the project directory:<br/>
-   cd Lunacalp-Assignment
+   cd Lunacal-Assignment
 
 3. Install dependencies:<br/>
    npm install
