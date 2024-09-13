@@ -1,12 +1,10 @@
-# Lunacal Figma File Replication
+# Lunacal Assesment
 
-This project is a replica of a Figma design provided by Lunacal. The implementation is done using React.js, Tailwind CSS, and a preferred UI library to match the design specifications as closely as possible.
+This project is a replica of a Figma design provided by Lunacal. The implementation is done using React.js, Tailwind CSS, and  UI library to match the design specifications as closely as possible.
 
 ## Introduction
 
 This project is a front-end web application developed to replicate a Figma design provided by Lunacal. The goal was to create a visually accurate and responsive version of the design using modern front-end technologies like React.js and Tailwind CSS.
-
-The application consists of multiple components such as tabs, image galleries, and various UI elements that mimic the layout and styling of the original Figma design.
 
 ## Features
 
@@ -23,10 +21,6 @@ The application consists of multiple components such as tabs, image galleries, a
 - Default images are displayed initially, and users can add their own images by clicking the "Add Image" button.
 - A hover effect is applied to the "Add Image" button, providing a subtle visual cue to the user.
 
-### 3. Responsive Design
-
-- The layout is fully responsive, ensuring a seamless experience on laptop screens (above 768px) and other devices.
-- Care has been taken to maintain consistent spacing, alignment, and sizing across different screen sizes.
 
 ## Technologies Used
 
@@ -45,9 +39,7 @@ The application consists of multiple components such as tabs, image galleries, a
    npm install
 
 4. Start the development server:<br/>
-   npm start
-
-Open your browser and navigate to http://localhost:3000 to view the application.
+   npm run dev
 
 ## Live Demo: 
    ### https://lunacal-demo.netlify.app/
